@@ -127,7 +127,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📧 Contact
 
 Ayush Singh
-ayush.singh@example.com
+Email: singh.ayush.kv@gmail.com
 LinkedIn: [Ayush Singh](https://www.linkedin.com/in/ayush-singh-a67498270/)
 
 > ❤️ This README was written by **ReadmeEasy** for fast and professional documentation.
